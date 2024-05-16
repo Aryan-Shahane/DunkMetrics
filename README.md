@@ -1,5 +1,5 @@
 # Compass Analytics Sports Analytics Hackathon User Guide In collaboration with Databricks
-## Friday, October 13, 2023
+
 
 ### Table of Contents
 1. [Context and Preamble Description](#context-and-preamble-description)
